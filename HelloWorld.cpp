@@ -13,6 +13,9 @@ using namespace std;
 
 int main()
 {
-cout << "Hello World\n" << endl;
-return (0);
+cout << "Hello World" << endl;
+cout << "I like GitHub" << endl;
+
+system("pause");
+
 }
